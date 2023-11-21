@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'DM Sans', sans-serif;
 }
 
 :root {
@@ -9,5 +10,36 @@
 }
 
 body {
-  background-color: lightcyan;
+  background: linear-gradient(288deg, #C2E9FB 0%, #A1C4FD 100%);
+  font-size: 1.6rem;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+main {
+  background-color: white;
+  box-shadow: 0 .2rem .4rem rgba(0, 0, 0, .1);
+  border-radius: .6rem;
+  padding: 4.8rem 6.4rem 6.4rem;
+  width: min(42.8rem, 90%);
+  margin-top: -12rem;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.4rem;
+  margin-bottom: 1.6rem;
+}
+
+h1, p {
+  color: #34355B;
+}
+
+p {
+  opacity: .8rem;
+}
+
+form {
+  margin-top: 4.8rem;
 }
