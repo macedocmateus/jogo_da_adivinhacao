@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Jogo da Adivinhação é uma página de um jogo em que o sistema irá sortear um número aleatório entre 1 e 10. O desafio para o usuário é adivinhar qual número foi escolhido pelo sistema. Divirta-se testando sua habilidade de adivinhação!. Clique <a href="https://jogo-da-adivinhacao-khaki.vercel.app/" target="_blank">aqui</a> para testar a página.
+O Jogo da Adivinhação é uma página de um jogo em que o sistema irá sortear um número aleatório entre 0 até 10. O desafio para o usuário é adivinhar qual número foi escolhido pelo sistema. Divirta-se testando sua habilidade de adivinhação!. Clique <a href="https://jogo-da-adivinhacao-khaki.vercel.app/" target="_blank">aqui</a> para testar a página.
 
 ## 🎨 Layout
 
