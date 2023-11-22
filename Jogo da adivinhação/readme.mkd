@@ -1,0 +1,41 @@
+<h1 align="center"> 🧩 Jogo da Adivinhação 🧩</h1>
+
+<p align="center">
+Projeto pessoal utilizando conceitos de HTML CSS e JavaScript.
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Imagens aleatórias" src="./assets/capa-readme.jpg" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
+
+## 💻 Projeto
+
+O Jogo da Adivinhação é uma página de um jogo em que o sistema irá sortear um número aleatório entre 1 e 10. O desafio para o usuário é adivinhar qual número foi escolhido pelo sistema. Divirta-se testando sua habilidade de adivinhação!. Clique <a href="https://jogo-da-adivinhacao-khaki.vercel.app/" target="_blank">aqui</a> para testar a página.
+
+## 🎨 Layout
+
+Clique <a href="https://www.figma.com/file/TVR41evxu7vxStTnRanogD/Jogo-Adivinha%C3%A7%C3%A3o-Copy?fuid=1050974991944149827" target="_blank">aqui</a> para conhecer a prototipagem do projeto.
+<br>
+<br>
+<br>
+<br>
+<p align="center">
+Desenvolvido com ♥ by Mateus de Castro Macedo 👨‍💻
+</p>
